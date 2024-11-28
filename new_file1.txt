@@ -1,2 +1,4 @@
-Hello! My name is Sung Min Park.
-Kumoh National Institute of Technology.
+Hello!
+Kumoh National University.
+
+First_Change in new_file1.txt.
